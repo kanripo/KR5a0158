@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:39:16.822388
-#+TITLE: 周易圖
-#+PROPERTY: DZID  DZ0157
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，3—130 三卷 洞真部靈圖類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
